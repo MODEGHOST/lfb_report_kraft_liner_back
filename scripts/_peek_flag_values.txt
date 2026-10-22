@@ -1,0 +1,18 @@
+CTR-00009 | 5 text= formula= ; 6 text=0 formula==VLOOKUP(A:A,ของอาย!B:L,11,0) ; 7 text=1 formula=1 ; 8 text= formula=
+CTD-00063 | 5 text= formula= ; 6 text=1 formula==VLOOKUP(A:A,ของอาย!B:L,11,0) ; 7 text= formula= ; 8 text= formula=
+CTD-00089 | 5 text= formula= ; 6 text=1 formula==VLOOKUP(A:A,ของอาย!B:L,11,0) ; 7 text= formula= ; 8 text= formula=
+CTD-00119 | 5 text= formula= ; 6 text=0 formula==VLOOKUP(A:A,ของอาย!B:L,11,0) ; 7 text= formula= ; 8 text= formula=
+CTD-00239 | 5 text= formula= ; 6 text=1 formula==VLOOKUP(A:A,ของอาย!B:L,11,0) ; 7 text= formula= ; 8 text= formula=
+CTD-00996 | 5 text= formula= ; 6 text=1 formula==VLOOKUP(A:A,ของอาย!B:L,11,0) ; 7 text= formula= ; 8 text= formula=
+COL5
+  (blank)=444
+COL6
+  1=125
+  0=319
+COL7
+  1=2
+  (blank)=442
+COL8
+  1=1
+  0=1
+  (blank)=442

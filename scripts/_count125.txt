@@ -1,0 +1,6 @@
+rows=446 cols=56
+flags all rows paper=125 rope=2 film=1 use=0
+month7 sales>0 customers=134 sales=145344929.47 weight=5485980.89
+month7 sales>0 AND paper=76 sales=115356670.83 weight=4240324.14
+month7 sales>0 AND rope=2 sales=16781512.06 weight=763661.02
+month7 sales>0 AND film=1 sales=2693303.32 weight=98319.63

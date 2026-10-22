@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "employee_code": "admin",
+      "password": "admin123",
+      "display_name": "ผู้ดูแลระบบ",
+      "username": "admin",
+      "department": "IT",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "employee_code": "sale01",
+      "password": "sale123",
+      "display_name": "สมชาย ฝ่ายขาย",
+      "username": "sale01",
+      "department": "Sales",
+      "role": "sales"
+    }
+  ],
+  "monthly_summary": {
+    "2026-07": [
+      { "id": 1, "service_name": "กระดาษรองเลท", "customer_count": 125, "sales_amount": 115356671, "gap": null, "sales_weight": 4240377 },
+      { "id": 2, "service_name": "รัดเชือก", "customer_count": 2, "sales_amount": 185000, "gap": null, "sales_weight": 0 },
+      { "id": 3, "service_name": "พันฟิล์ม", "customer_count": 1, "sales_amount": 42000, "gap": null, "sales_weight": 0 }
+    ],
+    "2026-08": [
+      { "id": 1, "service_name": "กระดาษรองเลท", "customer_count": 118, "sales_amount": 108220450, "gap": null, "sales_weight": 4012550 },
+      { "id": 2, "service_name": "รัดเชือก", "customer_count": 3, "sales_amount": 210000, "gap": null, "sales_weight": 0 },
+      { "id": 3, "service_name": "พันฟิล์ม", "customer_count": 2, "sales_amount": 68000, "gap": null, "sales_weight": 0 }
+    ],
+    "2026-09": [
+      { "id": 1, "service_name": "กระดาษรองเลท", "customer_count": 132, "sales_amount": 121450800, "gap": null, "sales_weight": 4389120 },
+      { "id": 2, "service_name": "รัดเชือก", "customer_count": 4, "sales_amount": 245000, "gap": null, "sales_weight": 0 },
+      { "id": 3, "service_name": "พันฟิล์ม", "customer_count": 2, "sales_amount": 75000, "gap": null, "sales_weight": 0 }
+    ]
+  },
+  "monthly_customers": {
+    "2026-08": [
+      { "id": 1, "customer_code": "CTR-00009", "customer_name": "บริษัท ซีพี ออลล์ จำกัด (มหาชน)", "sale": "แพรวOM", "cs": "น้ำฝน", "use_pallet": 1, "pallet_paper": 1, "rope": 0, "film": 1, "target": 20000000, "sales_amount": 18349543.12, "weight_kg": 705761.51, "gap": 5.48 },
+      { "id": 2, "customer_code": "CTD-00063", "customer_name": "บริษัท ไทยเบฟเวอเรจ จำกัด (มหาชน)", "sale": "ทิพย์", "cs": "มาย", "use_pallet": 0, "pallet_paper": 0, "rope": 1, "film": 1, "target": 15000000, "sales_amount": 12120340.5, "weight_kg": 512440.2, "gap": 8.13 },
+      { "id": 3, "customer_code": "CTR-00021", "customer_name": "บริษัท โฮมโปรดักส์ เซ็นเตอร์ จำกัด", "sale": "แพรวOM", "cs": "กิ๊ฟ", "use_pallet": 1, "pallet_paper": 1, "rope": 1, "film": 0, "target": 8000000, "sales_amount": 6422100.0, "weight_kg": 248900.75, "gap": 3.2 },
+      { "id": 4, "customer_code": "CTR-00105", "customer_name": "บริษัท แม็คโคร จำกัด", "sale": "บอส", "cs": "น้ำฝน", "use_pallet": 1, "pallet_paper": 0, "rope": 0, "film": 1, "target": 12000000, "sales_amount": 9800455.8, "weight_kg": 390112.4, "gap": 4.55 },
+      { "id": 5, "customer_code": "CTD-00018", "customer_name": "บริษัท เอสซีจี แพคเกจจิ้ง จำกัด", "sale": "ทิพย์", "cs": "มาย", "use_pallet": 0, "pallet_paper": 1, "rope": 1, "film": 1, "target": 5000000, "sales_amount": 4120888.25, "weight_kg": 165200.1, "gap": 2.1 }
+    ],
+    "2026-09": [
+      { "id": 1, "customer_code": "CTR-00009", "customer_name": "บริษัท ซีพี ออลล์ จำกัด (มหาชน)", "sale": "แพรวOM", "cs": "น้ำฝน", "use_pallet": 1, "pallet_paper": 1, "rope": 0, "film": 1, "target": 20000000, "sales_amount": 15349543.12, "weight_kg": 705761.51, "gap": 5.48 },
+      { "id": 2, "customer_code": "CTD-00063", "customer_name": "บริษัท ไทยเบฟเวอเรจ จำกัด (มหาชน)", "sale": "ทิพย์", "cs": "มาย", "use_pallet": 0, "pallet_paper": 0, "rope": 1, "film": 1, "target": 15000000, "sales_amount": 13820340.5, "weight_kg": 548220.2, "gap": 6.13 },
+      { "id": 3, "customer_code": "CTR-00021", "customer_name": "บริษัท โฮมโปรดักส์ เซ็นเตอร์ จำกัด", "sale": "แพรวOM", "cs": "กิ๊ฟ", "use_pallet": 1, "pallet_paper": 1, "rope": 1, "film": 0, "target": 8000000, "sales_amount": 7122100.0, "weight_kg": 268900.75, "gap": 2.85 },
+      { "id": 4, "customer_code": "CTR-00105", "customer_name": "บริษัท แม็คโคร จำกัด", "sale": "บอส", "cs": "น้ำฝน", "use_pallet": 1, "pallet_paper": 0, "rope": 0, "film": 1, "target": 12000000, "sales_amount": 10500455.8, "weight_kg": 410112.4, "gap": 3.95 },
+      { "id": 5, "customer_code": "CTD-00018", "customer_name": "บริษัท เอสซีจี แพคเกจจิ้ง จำกัด", "sale": "ทิพย์", "cs": "มาย", "use_pallet": 0, "pallet_paper": 1, "rope": 1, "film": 1, "target": 5000000, "sales_amount": 4580888.25, "weight_kg": 178200.1, "gap": 1.75 },
+      { "id": 6, "customer_code": "CTR-00044", "customer_name": "บริษัท บิ๊กซี ซูเปอร์เซ็นเตอร์ จำกัด", "sale": "แพรวOM", "cs": "กิ๊ฟ", "use_pallet": 1, "pallet_paper": 1, "rope": 0, "film": 0, "target": 9000000, "sales_amount": 6215000.0, "weight_kg": 255000.0, "gap": 7.2 },
+      { "id": 7, "customer_code": "CTD-00077", "customer_name": "บริษัท ลอตส์ จำกัด", "sale": "บอส", "cs": "มาย", "use_pallet": 0, "pallet_paper": 0, "rope": 1, "film": 1, "target": 3500000, "sales_amount": 2899000.4, "weight_kg": 112450.6, "gap": 4.01 }
+    ]
+  }
+}

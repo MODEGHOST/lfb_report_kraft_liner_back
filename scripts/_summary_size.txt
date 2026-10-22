@@ -1,0 +1,1 @@
+rows=6 cols=35 addr=string Address (Variant, Variant, XlReferenceStyle, Variant, Variant) {get} 

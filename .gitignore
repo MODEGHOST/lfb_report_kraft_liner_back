@@ -1,0 +1,3 @@
+config/source.local.php
+logs/
+*.log
